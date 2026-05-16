@@ -1,0 +1,1 @@
+C:\Users\Gabriel\ Lopes\Desktop\megastore\target\debug\megastore-search.exe: C:\Users\Gabriel\ Lopes\Desktop\megastore\src\catalogo.rs C:\Users\Gabriel\ Lopes\Desktop\megastore\src\grafo.rs C:\Users\Gabriel\ Lopes\Desktop\megastore\src\lib.rs C:\Users\Gabriel\ Lopes\Desktop\megastore\src\main.rs C:\Users\Gabriel\ Lopes\Desktop\megastore\src\produto.rs
